@@ -41,5 +41,5 @@ Para continuar con el uso de su número, se requiere la renovación. Actualizar 
 |-------------------------------------|--------------|----------------|--------|
 | Renovar su número por 1 mes         | 2500         | 3333           | 2000   |
 
-Después de pagar, ejecute `> Escala o`> marque * 233`, ​​introduzca el mes que necesita para renovar, y eso es todo!
+Después de pagar, ejecute `>balance` `>dial*233`, ​​introduzca el mes que necesita para renovar, y eso es todo!
 
